@@ -1,0 +1,6 @@
+{
+  "name": "Last Z Tool - Automation Client V2",
+  "description": "Giao diện quản lý và điều khiển tự động hóa game Last Z Tool V2 hiện đại, trực quan và tối ưu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
